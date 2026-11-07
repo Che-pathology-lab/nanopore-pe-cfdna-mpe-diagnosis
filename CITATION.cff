@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this repository."
+title: "Nanopore-based multimodal PE-cfDNA model for malignant pleural effusion diagnosis"
+type: software
+version: 0.1.0
+authors:
+  - family-names: "Fang"
+    given-names: "Danang"
+repository-code: "https://github.com/Che-pathology-lab/nanopore-pe-cfdna-mpe-diagnosis"

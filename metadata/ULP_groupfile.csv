@@ -1,0 +1,3 @@
+Sample,age,gender,LBC,CB,Combined_Cyto,subgroup,group,split
+EXAMPLE_ULP_001,59,0,negative,negative,negative,example_bpe,bpe,ulp
+EXAMPLE_ULP_002,68,1,positive,negative,positive,example_mpe,mpe,ulp

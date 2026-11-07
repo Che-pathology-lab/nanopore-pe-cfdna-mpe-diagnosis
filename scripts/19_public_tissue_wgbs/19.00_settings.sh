@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# Edit paths here; run numbered scripts from the repository root.
+PROJECT_DIR="results/19_public_tissue_wgbs"
+SRA_DIR="data/public_tissue_wgbs/sra"
+SRA_BIN="software/sra_toolkit/bin"  # Set the directory containing SRA Toolkit binaries.
+REF="references/hg38.fa"
+REGIONS="references/wgbs_discovery_dmrs.bed"
+ICHOR_SCRIPT="references/ichorCNA/scripts/runIchorCNA.R"
+CNA_INPUT_DIR="${PROJECT_DIR}/cna/wig"
+CNA_OUTPUT_DIR="${PROJECT_DIR}/cna/ichorCNA"
+CNA_MERGE_DIR="${PROJECT_DIR}/cna"
+REF_DIR="references/ichorCNA"
+GC_WIG="${REF_DIR}/gc_hg38_5000kb_clean.wig"
+MAP_WIG="${REF_DIR}/map_hg38_5000kb_clean.wig"
+CENTROMERE="${REF_DIR}/GRCh38.GCA_000001405.2_centromere_acen.txt"
+SAMPLE_LIST=""
+AVAILABLE_RUN_LIST=""
+THREADS=8
+FASTP_THREADS=4
+PICARD_HEAP="16g"
+MCALL_THREADS=8
+SITE_INTERVAL_MODE="original"
+THRESHOLD=1
+EXPECTED_REGIONS=3995
+BIN_SIZE=5000000
+ICHOR_NORMAL="c(0.4,0.5,0.6,0.7,0.8,0.9)"
+ICHOR_PLOIDY="c(2)"
+ICHOR_MAX_CN=3
+NORMAL_PANEL=""
+FAIL_FAST=1
+PYTHON="python3"

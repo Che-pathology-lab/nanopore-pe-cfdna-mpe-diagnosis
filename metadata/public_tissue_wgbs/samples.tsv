@@ -1,0 +1,51 @@
+sample_id	biosample	bioproject	group	cancer_type	material	pooling	enabled	normal_reference	sample_name
+CRC-T-001	SAMN45845966	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-T-002	SAMN45845967	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-T-003	SAMN45845968	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-T-004	SAMN45845969	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-T-005	SAMN45845970	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-T-006	SAMN45845971	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-T-007	SAMN45845972	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-T-008	SAMN45845973	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-T-009	SAMN45845974	PRJNA1198593	Tumor	Colorectal cancer	tissue	Not reported	1		
+CRC-N-001	SAMN45845975	PRJNA1198593	Non-malignant control	Colorectal cancer	tissue	Not reported	1		
+CRC-N-002	SAMN45845976	PRJNA1198593	Non-malignant control	Colorectal cancer	tissue	Not reported	1		
+CRC-N-003	SAMN45845977	PRJNA1198593	Non-malignant control	Colorectal cancer	tissue	Not reported	1		
+CRC-N-004	SAMN45845978	PRJNA1198593	Non-malignant control	Colorectal cancer	tissue	Not reported	1		
+CRC-N-005	SAMN45845979	PRJNA1198593	Non-malignant control	Colorectal cancer	tissue	Not reported	1		
+CRC-N-006	SAMN45845980	PRJNA1198593	Non-malignant control	Colorectal cancer	tissue	Not reported	1		
+CRC-N-007	SAMN45845981	PRJNA1198593	Non-malignant control	Colorectal cancer	tissue	Not reported	1		
+PRO-T-012	SAMN16351416	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-013	SAMN16351417	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-014	SAMN16351418	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-015	SAMN16351419	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-016	SAMN16351420	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-017	SAMN16351421	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-018	SAMN16351423	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-019	SAMN16351424	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-020	SAMN16351426	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-021	SAMN16351427	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-022	SAMN16351428	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-T-023	SAMN16351430	PRJNA667048	Tumor	Prostate cancer	tissue	Not reported	1		
+PRO-N-004	SAMN16351412	PRJNA667048	Non-malignant control	Prostate cancer	tissue	Not reported	1		
+PRO-N-005	SAMN16351413	PRJNA667048	Non-malignant control	Prostate cancer	tissue	Not reported	1		
+PRO-N-006	SAMN16351414	PRJNA667048	Non-malignant control	Prostate cancer	tissue	Not reported	1		
+PRO-N-007	SAMN16351415	PRJNA667048	Non-malignant control	Prostate cancer	tissue	Not reported	1		
+LUN-T-001	SAMN03784734	PRJNA287622	Tumor	Lung cancer	tissue	Not reported	1		
+LUN-T-002	SAMN03784738	PRJNA287622	Tumor	Lung cancer	tissue	Not reported	1		
+LUN-T-003	SAMN03784742	PRJNA287622	Tumor	Lung cancer	tissue	Not reported	1		
+LUN-N-001	SAMN03784736	PRJNA287622	Non-malignant control	Lung cancer	tissue	Not reported	1		
+LUN-N-002	SAMN03784740	PRJNA287622	Non-malignant control	Lung cancer	tissue	Not reported	1		
+LUN-N-003	SAMN03784760	PRJNA287622	Non-malignant control	Lung cancer	tissue	Not reported	1		
+GAS-T-001	SAMN17785516	PRJNA699476	Tumor	Gastric cancer	tissue	Not reported	1		
+GAS-N-001	SAMN17785259	PRJNA699476	Non-malignant control	Gastric cancer	tissue	Not reported	1		
+GAS-N-002	SAMN17785511	PRJNA699476	Non-malignant control	Gastric cancer	tissue	Not reported	1		
+GAS-N-003	SAMN17785518	PRJNA699476	Non-malignant control	Gastric cancer	tissue	Not reported	1		
+ORA-T-001	SAMN30655855	PRJNA876296	Tumor	Oral squamous cell carcinoma	tissue	Not reported	1		
+ORA-T-002	SAMN30655859	PRJNA876296	Tumor	Oral squamous cell carcinoma	tissue	Not reported	1		
+ORA-T-003	SAMN30655863	PRJNA876296	Tumor	Oral squamous cell carcinoma	tissue	Not reported	1		
+ORA-T-004	SAMN30655867	PRJNA876296	Tumor	Oral squamous cell carcinoma	tissue	Not reported	1		
+ORA-N-001	SAMN30655854	PRJNA876296	Non-malignant control	Oral squamous cell carcinoma	tissue	Not reported	1		
+ORA-N-002	SAMN30655858	PRJNA876296	Non-malignant control	Oral squamous cell carcinoma	tissue	Not reported	1		
+ORA-N-003	SAMN30655862	PRJNA876296	Non-malignant control	Oral squamous cell carcinoma	tissue	Not reported	1		
+ORA-N-004	SAMN30655866	PRJNA876296	Non-malignant control	Oral squamous cell carcinoma	tissue	Not reported	1		

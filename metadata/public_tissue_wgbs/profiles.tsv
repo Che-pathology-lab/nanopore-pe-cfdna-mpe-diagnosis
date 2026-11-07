@@ -1,0 +1,6 @@
+processing_group	bioproject	adapter_r1	adapter_r2	clip_r1	clip_r2	tail_r1	tail_r2	bsmap_n	quality	min_length	mcall_pe1	mcall_pe2	parameter_status	source
+PG02	PRJNA287622	AUTO	AUTO	7	7	0	0	0	20	30	3	10	QC-informed working configuration: clip7 and mcall PE1=3/PE2=10; representative pilot evidence, not proof all positional bias eliminated	https://pmc.ncbi.nlm.nih.gov/articles/PMC5131824/
+PG08	PRJNA876296	AUTO	AUTO	0	0	0	0	0	20	30	3	3	Uniform reanalysis STARTING BASELINE; end bias not validated for these 50 samples; -n 0 USER-PREFERRED PROVISIONAL, library direction UNRESOLVED	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6542055
+PG09	PRJNA699476	AUTO	AUTO	0	0	0	0	0	20	30	3	3	Uniform reanalysis STARTING BASELINE; end bias not validated for these 50 samples	https://pmc.ncbi.nlm.nih.gov/articles/PMC9777158/
+PG10	PRJNA1198593	AUTO	AUTO	0	0	0	0	0	20	30	3	3	Uniform reanalysis STARTING BASELINE; end bias not validated for these 50 samples	https://pmc.ncbi.nlm.nih.gov/articles/PMC11753045/
+PG17	PRJNA667048	AUTO	AUTO	7	7	0	0	0	20	30	3	10	QC-informed working configuration: clip7 and mcall PE1=3/PE2=10; representative pilot evidence, not proof all positional bias eliminated	https://pmc.ncbi.nlm.nih.gov/articles/PMC9523674/
